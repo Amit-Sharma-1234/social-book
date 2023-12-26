@@ -342,7 +342,7 @@ width: 35px;
 }
 .post-container{
     width: 100%;
-    background: var( --nav-color);
+    background: var( --body-color);
     border-radius: 6px;
     padding: 20px;
     color: #626262;
